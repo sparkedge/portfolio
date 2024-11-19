@@ -1,2 +1,2 @@
-# home
+# portfolio
 Where Creativity Meets Intelligence
